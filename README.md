@@ -70,7 +70,7 @@ How to use FastAPI with a NoSQL database (MongoDB).
 
 ## Authors
 
-- [@srinivasan](https://www.github.com/nasavinirs)
+- [SrinivasanS](https://www.github.com/nasavinirs)
 
 
 ## License
