@@ -39,6 +39,8 @@ Install python project dependencies from requirements.txt file with following co
 
 To run this project, you will need to add the following environment variables to your .env file
 
+`APP_PORT`
+
 `SERVER`
 
 `APP_NAME`
